@@ -1,2 +1,2 @@
-# Ragistration-form
-Task : Ragistration Form
+# Registration-form
+Task : Registration Form
